@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/css/main.0a317ddf.chunk.css",
+    "main.js": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/main.54d319c6.chunk.js",
+    "main.js.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/main.54d319c6.chunk.js.map",
+    "runtime-main.js": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/runtime-main.11c1bcf6.js",
+    "runtime-main.js.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/runtime-main.11c1bcf6.js.map",
+    "static/css/2.c4aa7f7f.chunk.css": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/css/2.c4aa7f7f.chunk.css",
+    "static/js/2.c39f500b.chunk.js": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/2.c39f500b.chunk.js",
+    "static/js/2.c39f500b.chunk.js.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/2.c39f500b.chunk.js.map",
+    "static/js/3.a01ef042.chunk.js": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/3.a01ef042.chunk.js",
+    "static/js/3.a01ef042.chunk.js.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/3.a01ef042.chunk.js.map",
+    "index.html": "https://mahadihasanjoy95.github.io/csb-s2z15c/index.html",
+    "service-worker.js": "https://mahadihasanjoy95.github.io/csb-s2z15c/service-worker.js",
+    "service-worker.js.LICENSE.txt": "https://mahadihasanjoy95.github.io/csb-s2z15c/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/service-worker.js.map",
+    "static/css/2.c4aa7f7f.chunk.css.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/css/2.c4aa7f7f.chunk.css.map",
+    "static/css/main.0a317ddf.chunk.css.map": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/css/main.0a317ddf.chunk.css.map",
+    "static/js/2.c39f500b.chunk.js.LICENSE.txt": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/js/2.c39f500b.chunk.js.LICENSE.txt",
+    "static/media/Plumbers.3933bdbe.png": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/Plumbers.3933bdbe.png",
+    "static/media/camera.9c31fe06.PNG": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/camera.9c31fe06.PNG",
+    "static/media/loginPic.b8da1498.png": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/loginPic.b8da1498.png",
+    "static/media/profile.94a0c9be.png": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/profile.94a0c9be.png",
+    "static/media/refrigertors.335f0b44.png": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/refrigertors.335f0b44.png",
+    "static/media/uplumberlogo.9d5f9234.png": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/uplumberlogo.9d5f9234.png",
+    "static/media/verify.1931fea4.png": "https://mahadihasanjoy95.github.io/csb-s2z15c/static/media/verify.1931fea4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c1bcf6.js",
+    "static/css/2.c4aa7f7f.chunk.css",
+    "static/js/2.c39f500b.chunk.js",
+    "static/css/main.0a317ddf.chunk.css",
+    "static/js/main.54d319c6.chunk.js"
+  ]
+}
